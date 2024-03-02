@@ -1,9 +1,8 @@
-import React from 'react'
-
 const AboutMe = () => {
   return (
-    <div>
-      
+    <div className="
+    relative w-full h-full flex items-center justify-around">
+      About me
     </div>
   )
 }

@@ -13,7 +13,7 @@ const Text = () => {
           y="50%"
           dx="-2.82em"
           dy=".32em"
-          text-anchor="middle"
+          textAnchor="middle"
           className="text-body"
         >
           Hello,
@@ -23,7 +23,7 @@ const Text = () => {
           y="50%"
           dx=".4em"
           dy="1.2em"
-          text-anchor="middle"
+          textAnchor="middle"
           className="text-body"
         >
           I'm Teodor Marinov,
@@ -33,7 +33,7 @@ const Text = () => {
           y="50%"
           dx="-0.27em"
           dy="2.0em"
-          text-anchor="middle"
+          textAnchor="middle"
           className="text-body"
         >
           Junior Developer!
@@ -43,7 +43,7 @@ const Text = () => {
           y="50%"
           dx="2em"
           dy=".32em"
-          text-anchor="middle"
+          textAnchor="middle"
           className="text-body"
         ></text>
       </svg>

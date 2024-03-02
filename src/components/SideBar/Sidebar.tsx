@@ -9,7 +9,7 @@ const Sidebar = () => {
     <div
       className="
         w-24 h-full 
-      bg-purple-600 
+        bg-[radial-gradient(ellipse_at_left,_var(--tw-gradient-stops))] from-orange-600 to-purple-900
         hover:w-60 
         transition-all
         flex 
@@ -17,7 +17,7 @@ const Sidebar = () => {
         justify-center 
         items-center 
         text-white"
-        id="div-to-hover"
+      id="div-to-hover"
     >
       <div className="gap-y-12 flex flex-col">
         <SidebarElement selected={true} text="Home">

@@ -10,7 +10,7 @@ svg {
   }
 
   svg text.text-body {
-    fill: #e9edfe;
+    fill: #535353;
     stroke: transparent;
     stroke-width: 0;
     stroke-dashoffset: -25%;
@@ -33,7 +33,7 @@ svg {
     }
     80%,
     100% {
-      fill: #e9edfe;
+      fill: #535353;
       stroke: transparent;
       stroke-width: 0;
       stroke-dashoffset: -25%;
