@@ -30,9 +30,9 @@ const SidebarElement: React.FC<SidebarElementProps> = ({
       )}
     >
       <div>{children}</div>
-      <p className="pl-2 text-xl">
+      {/* <p className="pl-2 text-xl">
         {text}
-      </p>
+      </p> */}
     </span>
   );
 };
